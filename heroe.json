@@ -1,0 +1,11 @@
+{
+  "dialogos": [
+    { "personaje": "Jefe", "texto": "¡No puede ser! ¿Cómo lograste vencerme?" },
+    { "personaje": "Jugador", "texto": "Sabía que había alguien detrás de todo esto... dime quién te envió." },
+    { "personaje": "Jefe", "texto": "Hah... no tiene sentido decírtelo. Llegas demasiado tarde." },
+    { "personaje": "Jugador", "texto": "¿Tarde? ¿Para qué? ¡Habla!" },
+    { "personaje": "Jefe", "texto": "El verdadero enemigo ya está en camino... Y tú no podrás detenerlo." },
+    { "personaje": "Jugador", "texto": "No tengo tiempo para esto. Debo seguir adelante y descubrir la verdad." },
+    { "personaje": "Narrador", "texto": "Con el jefe derrotado, una nueva amenaza se avecina. ¿Podrá el héroe enfrentarla?" }
+  ]
+}
